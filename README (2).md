@@ -34,7 +34,7 @@ Ensure you have the following installed:
     ```bash
     cd Password-Generator
     ```
-- Run the ToDo List application:
+- Run the application:
 
     ```bash
     Password-Generator.py
